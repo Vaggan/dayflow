@@ -1,8 +1,8 @@
 # Architecture
 
-Status: Draft  
-Version: 0.1  
-Last updated: 2026-07-05  
+Status: Current
+Version: 0.1
+Last updated: 2026-07-31
 
 ---
 
@@ -113,3 +113,4 @@ API Layer
 Frontend (Angular)
     ↓
 User sees "Today"
+```
